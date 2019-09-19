@@ -101,7 +101,7 @@ h3 {
 	height: 100vh;
 }
 #intro.section {
-	background: url(../img/image.jpg) no-repeat top center/cover;
+	background: url(../img/image.JPG) no-repeat top center/cover;
 	position: relative;
 	background-size: cover;
 	background-repeat: no-repeat;
