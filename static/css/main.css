@@ -92,6 +92,13 @@ h3 {
 	padding: 30px 40px;
 	text-transform: uppercase;
 }
+.menu_icn{
+	width: 12px!important;
+	height: 12px!important;
+	margin-left: 10px;
+    position: relative;
+    top: 12px;
+}
 .section {
 	padding-bottom: 30px;
 	padding-top: 0;
